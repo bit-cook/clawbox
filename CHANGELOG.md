@@ -8,6 +8,12 @@ All notable changes to this project are documented in this file.
 
 - _None yet._
 
+## v1.2.6
+
+### Changes
+
+- fix(network_preflight): guard skipped fallback DNS probe result
+
 ## v1.2.5
 
 ### Changes
